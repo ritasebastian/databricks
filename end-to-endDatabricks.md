@@ -1127,7 +1127,4 @@ A production suspicious transaction model should use:
 * threshold tuning
 * precision / recall tradeoff
 
-```
 
-One small correction for your GitHub version: I would title this **“Databricks ML Demo — Suspicious Transaction Detection”** and clearly label the data as **synthetic**, so nobody mistakes the 100% model metrics for production performance.
-```
