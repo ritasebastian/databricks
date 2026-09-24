@@ -1,5 +1,4 @@
 
-````markdown
 # Databricks ML Demo - Suspicious Transaction Detection
 
 ## Goal
